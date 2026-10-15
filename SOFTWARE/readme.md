@@ -6,13 +6,16 @@ Liste des logiciels Windows utilisés ou recommandés, classés par catégorie.
 
 ## 📁 Files & Transfers
 
-| Software      | Description                                                   |
-| ------------- | ------------------------------------------------------------- |
-| **WinSCP**    | Transfert de fichiers sécurisé via **SFTP, SCP, FTP** et SSH. |
-| **FileZilla** | Client **FTP / FTPS / SFTP** pour transférer des fichiers.    |
-| **LocalSend** | Partage de fichiers entre appareils sur le **réseau local**.  |
-| **WinRAR**    | Compression et décompression d'archives (`RAR`, `ZIP`, etc.). |
-| **Recuva**    | Récupération de fichiers supprimés.                           |
+| Software             | Description                                                   |
+| -------------------- | ------------------------------------------------------------- |
+| **WinSCP**           | Transfert de fichiers sécurisé via **SFTP, SCP, FTP** et SSH. |
+| **FileZilla**        | Client **FTP / FTPS / SFTP** pour transférer des fichiers.    |
+| **LocalSend**        | Partage de fichiers entre appareils sur le **réseau local**.  |
+| **WinRAR**           | Compression et décompression d'archives (`RAR`, `ZIP`, etc.). |
+| **Recuva**           | Récupération de fichiers supprimés.                           |
+| **FreeRecover**      | Récupération de fichiers supprimés.                           |
+| **Kickass Undelete** | Récupération de fichiers supprimés.                           |
+| **TESTDISK**         | Récupération de fichiers supprimés.                           |
 
 ---
 
@@ -43,6 +46,7 @@ Liste des logiciels Windows utilisés ou recommandés, classés par catégorie.
 | ------------ | ------------------------------------------------------------------ |
 | **Insomnia** | Test et développement d'API **REST / GraphQL**.                    |
 | **PuTTY**    | Client **SSH, Telnet et série** pour l'administration de systèmes. |
+| **Bruno**    | Test et développement d'API **REST / GraphQL**                     |
 
 ---
 
@@ -95,5 +99,5 @@ Windows Software
 │   └── qBittorrent
 │
 └── 📖 Reference
-    └── JW Library
+    └── JW Library    
 ```
